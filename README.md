@@ -1,4 +1,4 @@
-# failure_predictor
+## Machine Shop Tool Life Predictor
 A Machine Learning Project created to predict the tool life of a machine shop tool. The tool life is calculated by two methods, an Artificial Neural Network and a Random Forest Regressor.
 
 The MainPage.py is linked to InputPage.py and Theory.py via folder functions.
